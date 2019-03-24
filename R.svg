@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="67.437px" height="61.538px" viewBox="0 0 67.437 61.538" enable-background="new 0 0 67.437 61.538" xml:space="preserve">
+<g>
+	<path fill="#525251" d="M65.5,46.645L54.752,35.896c0,0,7.908-4.607,7.908-11.747v-8.062c0,0-1.844-7.831-9.752-7.831
+		s-42.531,0-42.531,0S7.459,7.72,7.459,10.791s0,37.619,0,37.619s-0.384,3.302,2.303,3.302h12.361c0,0,2.764-0.23,2.764-2.073
+		c0-1.843,0-12.822,0-12.822s1.383-3.378,4.684-1.919l14.971,15.279c0,0,0.459,1.151,3.607,1.151s14.127,0,14.127,0
+		S67.651,50.023,65.5,46.645z M40.471,26.453H25.655v-7.908c0,0-0.385-0.998,2.072-0.998h12.744c0,0,3.303,0.229,3.303,2.226
+		c0,1.996,0,3.915,0,3.915S43.926,26.453,40.471,26.453z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="3.144" y1="27.5122" x2="61.7114" y2="27.5122">
+		<stop  offset="0" style="stop-color:#DADADA"/>
+		<stop  offset="0.1742" style="stop-color:#D7D7D7"/>
+		<stop  offset="0.3567" style="stop-color:#CDCDCD"/>
+		<stop  offset="0.5429" style="stop-color:#BDBDBC"/>
+		<stop  offset="0.7319" style="stop-color:#A5A5A4"/>
+		<stop  offset="0.921" style="stop-color:#858585"/>
+		<stop  offset="1" style="stop-color:#757474"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M61.204,44.189L50.456,33.441
+		c0,0,7.908-4.606,7.908-11.747v-8.062c0,0-1.842-7.831-9.75-7.831s-42.533,0-42.533,0S3.163,5.265,3.163,8.336
+		c0,3.071,0,37.62,0,37.62s-0.384,3.302,2.303,3.302h12.363c0,0,2.764-0.23,2.764-2.073c0-1.843,0-12.822,0-12.822
+		s1.381-3.377,4.682-1.919l14.973,15.278c0,0,0.459,1.151,3.607,1.151c3.146,0,14.127,0,14.127,0S63.354,47.568,61.204,44.189z
+		 M36.176,23.999H21.358V16.09c0,0-0.383-0.998,2.074-0.998h12.744c0,0,3.301,0.229,3.301,2.226c0,1.996,0,3.916,0,3.916
+		S39.631,23.999,36.176,23.999z"/>
+</g>
+</svg>
